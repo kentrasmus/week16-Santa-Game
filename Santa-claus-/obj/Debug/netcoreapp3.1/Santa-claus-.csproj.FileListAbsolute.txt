@@ -1,0 +1,16 @@
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\bin\Debug\netcoreapp3.1\Santa-claus-.exe
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\bin\Debug\netcoreapp3.1\Santa-claus-.deps.json
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\bin\Debug\netcoreapp3.1\Santa-claus-.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\bin\Debug\netcoreapp3.1\Santa-claus-.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\bin\Debug\netcoreapp3.1\Santa-claus-.dll
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\bin\Debug\netcoreapp3.1\Santa-claus-.pdb
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\obj\Debug\netcoreapp3.1\Santa-claus-.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\obj\Debug\netcoreapp3.1\Santa_claus_.Form1.resources
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\obj\Debug\netcoreapp3.1\Santa_claus_.Properties.Resources.resources
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\obj\Debug\netcoreapp3.1\Santa-claus-.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\obj\Debug\netcoreapp3.1\Santa-claus-.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\obj\Debug\netcoreapp3.1\Santa-claus-.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\obj\Debug\netcoreapp3.1\Santa-claus-.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\obj\Debug\netcoreapp3.1\Santa-claus-.dll
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\obj\Debug\netcoreapp3.1\Santa-claus-.pdb
+C:\Users\opilane\source\repos\Titpe21\Santa-claus-\Santa-claus-\obj\Debug\netcoreapp3.1\Santa-claus-.genruntimeconfig.cache
